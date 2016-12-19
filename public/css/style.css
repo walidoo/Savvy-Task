@@ -1,0 +1,43 @@
+.posts_box {
+    border-top: 3px solid #3c8dbc;
+}
+
+hr {
+	border-top: 1px solid #c8d9e2;
+}
+
+.post_paginate {
+	text-align: center;
+    margin-top: 70px;
+}
+
+a.post_cat {
+	background-color: #f0ad4e;
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 3px;
+}
+
+p.post_desc {
+	margin-top: 20px;
+}
+
+p.lead {
+	font-size: 19px;
+}
+
+p.alert_msg {
+    font-size: 16px;
+    font-weight: bold;
+    padding-top: 5px;
+    text-align: center;
+}
+
+p.the_alert {
+	text-align: center;
+    margin-top: 15px;
+    font-weight: bold;
+    color: #fff;
+}
+
